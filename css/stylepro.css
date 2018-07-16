@@ -1,0 +1,8 @@
+﻿.signup-page .signup-box{
+  width: 500px;
+  height: 100px;
+  background-color:#75b589;
+}
+.input-group-addon{
+  max-width: 25px;
+}
